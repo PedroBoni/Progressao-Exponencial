@@ -1,4 +1,2 @@
 # Progressao-Exponencial
-|1|
----
-|2|
+###ETEC ITANHAÉM
